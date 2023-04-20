@@ -22,7 +22,7 @@ This project uses bootsrap components for the structure of the text boxes and JQ
 
 Please refer to the LICENSE in the repo.
 
-![alt text](/assets/images/)
+![alt text](./assets/images/Screenshot%202023-04-20%20161337.png)
 
 <a href="https://asiabeoon.github.io/Weekly-Organizer/">Deployed My Code Generator page</a>
 
